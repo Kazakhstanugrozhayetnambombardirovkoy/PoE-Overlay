@@ -8,7 +8,7 @@ const POE_NAMES = [
     'pathofexile_x64.exe', 'pathofexile.exe',
     'pathofexile_x64_kg', 'pathofexile_kg',
     'pathofexile_x64steam', 'pathofexilesteam',
-    'pathofexile_x64', 'pathofexile',
+    'pathofexile_x64', 'pathofexile','GeForceNow.exe'
     'wine64-preloader' // linux
 ];
 
